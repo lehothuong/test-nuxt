@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#f44336}
+        </style>
+    </defs>
+    <g id="prefix__chrome_1_" data-name="chrome (1)" transform="translate(-.001)">
+        <path id="prefix__Path_32" d="M67.307 5h-7.413a3 3 0 0 0-2.62 4.466l-3.706-6.36A7.995 7.995 0 0 1 67.307 5z" class="prefix__cls-1" data-name="Path 32" transform="translate(-51.893)"/>
+        <path id="prefix__Path_33" d="M233.021 163.021a8.006 8.006 0 0 1-8 8 7.135 7.135 0 0 1-1-.067l3.6-6.433a3.007 3.007 0 0 0-1.1-4.1 2.972 2.972 0 0 0-1.493-.4h7.406a7.888 7.888 0 0 1 .587 3z" data-name="Path 33" transform="translate(-217.02 -155.021)" style="fill:#ffc107"/>
+        <path id="prefix__Path_34" d="M10.6 105.827L7 112.26h-.006a7.995 7.995 0 0 1-5.32-12.826l3.706 6.36.02.033a3 3 0 0 0 5.2 0z" data-name="Path 34" transform="translate(0 -96.327)" style="fill:#4caf50"/>
+        <path id="prefix__Path_35" d="M165.512 164.52a3 3 0 0 1-5.2 0l-.02-.033a3 3 0 0 1 2.62-4.466h.007a2.972 2.972 0 0 1 1.493.4 3.007 3.007 0 0 1 1.1 4.099z" class="prefix__cls-1" data-name="Path 35" transform="translate(-154.911 -155.02)"/>
+        <path id="prefix__Path_36" d="M165.512 164.52a3 3 0 0 1-5.2 0l-.02-.033a3 3 0 0 1 2.62-4.466h.007a2.972 2.972 0 0 1 1.493.4 3.007 3.007 0 0 1 1.1 4.099z" data-name="Path 36" transform="translate(-154.911 -155.02)" style="fill:#2196f3"/>
+        <path id="prefix__Path_37" d="M152.6 156.021a3.309 3.309 0 0 1-1.655-.444 3.336 3.336 0 1 1 4.556-1.223 3.352 3.352 0 0 1-2.901 1.667zm.017-6a2.668 2.668 0 1 0 2.3 4 2.667 2.667 0 0 0-2.3-4z" data-name="Path 37" transform="translate(-144.61 -144.688)" style="fill:#fafafa"/>
+    </g>
+</svg>

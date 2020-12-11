@@ -1,0 +1,109 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Nunito" href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-attributes>
+      <mj-all color="#000000" font-family="Nunito, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .sectionImage { max-width:100% !important} .sectionImage table { width:100% !important} .sectionImage { max-width:800px !important} .sectionImage div { max-width:100% !important} .body-section { max-width:800px !important } .body-section-1 { max-width:800px
+      !important } .body-section-1 div { max-width:100% !important } .body-section-2 {border-radius:5px } .body-section-2 table {border-radius:5px } .body-section-2 div { max-width: 700px !important } .body-section div { max-width: 700px !important }
+      .body-section-4 > table tbody { display:flex;justify-content:center } .body-section-5{max-width:800px !important;} .body-section-5 div {max-width:700px !important} .body-section-6 { max-width:800px !important; }
+
+    </mj-style>
+    <mj-style>
+      @media only screen and (max-width:480px) { .body-section table table td { padding-top: 10px !important; padding-bottom: 10px !important } .title{ font-size:15px;margin-bottom:10px !important} .btnMain td { height:40px !important } .btnMain a {padding:
+      3px 25px !important; } .body-section-2 {border-radius:0 !important } .body-section-2 table {border-radius:0 !important } }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7">
+    <mj-section css-class="body-section-1" padding-bottom="5px" padding-top="5px" background-color="#ff599a" full-width="full-width">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image href="https://gocashback.vn/" padding="0" width="166px" height="25px" src="https://s3-ap-southeast-1.amazonaws.com/gocashback.vn/resources/images/logo.png" alt="OnePage" padding-bottom="0px" padding-top="0px"></mj-image>
+      </mj-column>
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text padding="0" font-size="15px" align="center" padding-bottom="0px" padding-top="0px">
+          <p style="text-decoration: none; color: #fff;">Thỏa thích mua sắm, Hoàn tiền tối đa</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width="full-width" padding-bottom="0px" padding-top="0px" css-class="sectionImage">
+      <mj-column width="100%" padding-bottom="0px" padding-top="0px">
+        <mj-image padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="https://d604u3cjqmj8m.cloudfront.net/resources/banners/mua-sam-hoan-tien.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <mj-section background-color="#ffffff" full-width="full-width" padding-left="0" padding-right="0">
+        <mj-column width="100%">
+          <mj-text padding="0px 10px" font-size="15px" line-height="1.33">
+            Bạn thật may mắn khi có những người bạn rất tuyệt vời. Họ biết cách mua sắm thông minh và cũng muốn chia sẻ mẹo mua sắm với bạn. <span style="font-weight:bold">Trung Chau</span> đã đặc biệt gửi đến bạn lời mời tham gia <span style="font-weight:bold">goCASHBACK.</span>
+          </mj-text>
+          <mj-text padding="17px 10px" font-size="15px" line-height="1.33">
+            Chúng tôi rất vui khi được chia sẻ với bạn Cách Mua Hàng Thông Minh hơn.
+          </mj-text>
+          <mj-text padding="0px 10px" font-size="15px" line-height="1.33">
+            Đăng ký ngay hôm nay để nhận được 50.000đ Hoàn tiền từ<span style="font-weight:bold">goCASHBACK</span>! Không chỉ bạn mà cả người đã giới thiệu cũng sẽ nhận được Hoàn Tiền cho lần mua hàng đầu tiên trên hơn 100 Trang bán hàng tại Việt Nam
+            :)
+          </mj-text>
+          <mj-button css-class="btnMain" padding-top="40px" padding-bottom="0" background-color="#05668d" align="center" color="#ffffff" font-size="15px" text-transform="uppercase" font-weight="bold" href="https://google.com" width="187px" height="50px">
+            Tham gia ngay
+          </mj-button>
+
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper background-color="#fff" padding-top="0" padding-bottom="0" css-class="body-section-5">
+      <mj-section css-class="body-section-2" background-color="#efefef" padding-bottom="0">
+        <mj-text padding-bottom="10px" align="center" color="#05668d" text-transform="uppercase" font-weight="bold" font-size="18px" color line-height="1.33">
+          <p class="title" style="margin-bottom:20px">Nhận hoàn tiền bằng cách nào?</p>
+        </mj-text>
+        <mj-column vertical-align="top" width="33.33333333333333%">
+          <mj-image padding-bottom="0" src="https://s3-ap-southeast-1.amazonaws.com/gocashback.vn/resources/images/raf_step_1.png" alt="" width="70px"></mj-image>
+          <mj-text padding="12px 10px 0px 10px" align="center" color="#00a896" text-transform="uppercase" font-weight="bold" font-size="18px" color line-height="1.33">
+            Đăng nhập
+          </mj-text>
+          <mj-text align="center" color="#666666" font-size="14px" line-height="1.36" padding-bottom="30px">Đăng nhập/Đăng ký tài khoản tại goCASHBACK</mj-text>
+        </mj-column>
+        <mj-column vertical-align="top" width="33.33333333333333%">
+           <mj-image padding-bottom="0" src="https://s3-ap-southeast-1.amazonaws.com/gocashback.vn/resources/images/raf_step_2.png" alt="" width="70px"></mj-image>
+          <mj-text padding="12px 10px 0px 10px" align="center" color="#00a896" text-transform="uppercase" font-weight="bold" font-size="18px" color line-height="1.33">
+            Mua sắm online
+          </mj-text>
+          <mj-text padding-bottom="25px" align="center" color="#666666" font-size="14px" line-height="1.36" padding-bottom="30px">Truy cập và mua sắm online trực tiếp tại các trang thương mai điện tử quen thuộc (Shopee, Lazada, Concung, …)</mj-text>
+        </mj-column>
+        <mj-column vertical-align="top" width="33.33333333333333%">
+           <mj-image padding-bottom="0" src="https://s3-ap-southeast-1.amazonaws.com/gocashback.vn/resources/images/raf_step_3.png" alt="" width="70px"></mj-image>
+          <mj-text padding="12px 10px 0px 10px" align="center" color="#00a896" text-transform="uppercase" font-weight="bold" font-size="18px" color line-height="1.33">
+            nhận hoàn tiền
+          </mj-text>
+          <mj-text align="center" color="#666666" font-size="14px" line-height="1.36" padding-bottom="30px">Nhận hoàn tiền sau mua sắm và cùng tích lũy với goCASHBACK</mj-text>
+        </mj-column>
+        <mj-text padding-top="0" align="center" color="#05668d" text-transform="uppercase" font-weight="bold" font-size="18px" line-height="1.33">
+          <a style="text-decoration:none;color: inherit;margin-bottom:25px;display: block;" href="http://www.mailjet.com">Tìm hiểu thêm</a>
+        </mj-text>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section css-class="body-section-6" padding-top="10px" background-color="#ffffff" full-width="full-width">
+      <mj-column css-class="body-section-4">
+        <mj-text align="center">
+          <div>
+            <a target="_blank" href="https://apps.apple.com/vn/app/gocashback/id1508702789" style="padding:0 3px;text-decoration:none;color: inherit;">
+              <img width="116px" height="40px"  src="https://d604u3cjqmj8m.cloudfront.net/resources/images/btn-ios-store.png"></img>
+             </a>
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hongkytech.gocashback&hl=vi" style="padding:0 3px;text-decoration:none;color: inherit;">
+              <img width="116px" height="40px"  src="https://d604u3cjqmj8m.cloudfront.net/resources/images/btn-adr-store.png"></img>
+             </a>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="body-section-6" padding-top="0" padding-bottom="15px" background-color="#ffffff" full-width="full-width">
+      <mj-column>
+        <mj-text padding="0" align="center" font-size="12px" line-height="1.33" padding-bottom="5px">Email này đã được gửi đến cho trungmchau@gmail.com
+        </mj-text>
+        <mj-text padding="0" align="center" font-size="12px" line-height="1.33">
+          Để được hỗ trợ, vui lòng liên hệ với chúng tôi qua support@goCASHBACK.vn
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

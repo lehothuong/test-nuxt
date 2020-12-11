@@ -1,0 +1,11 @@
+.modalHeader {
+  background-color: #cb0055;
+  button{
+    color: #fff !important;
+    font-weight: 400;
+    opacity: 1;
+    &:focus{
+      outline: none;
+    }
+  }
+}
