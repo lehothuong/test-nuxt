@@ -9,7 +9,8 @@
     "build": "nuxt-ts build",
     "generate": "nuxt-ts generate",
     "start": "nuxt-ts start",
-    "analyze": "nuxt build --analyze"
+    "analyze": "nuxt build --analyze",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "@nuxt/typescript-runtime": "^0.4.0",
@@ -56,6 +57,7 @@
     "@nuxtjs/pwa": "^3.0.0-beta.20",
     "cross-env": "^7.0.2",
     "node-sass": "^4.13.1",
+    "push-dir": "^0.4.1",
     "sass-loader": "^8.0.2"
   }
 }
