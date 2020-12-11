@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{"./api/banner.js":function(n,e,t){"use strict";t.r(e);e.default={getBanner:function(n){return n.get("/ads").then((function(n){return n}))}}}}]);

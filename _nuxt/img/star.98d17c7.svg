@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.56" height="20.636" viewBox="0 0 21.56 20.636">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff082}
+        </style>
+    </defs>
+    <g id="prefix__star_1_" data-name="star (1)" transform="translate(0 -10.971)">
+        <path id="prefix__Path_51" d="M66.524 21.681l-5.632-.522-2.237-5.195a.451.451 0 0 0-.829 0l-2.236 5.195-5.632.522a.451.451 0 0 0-.256.788l4.249 3.731-1.244 5.52a.451.451 0 0 0 .671.487l4.863-2.888 4.859 2.888a.451.451 0 0 0 .671-.487l-1.24-5.52 4.249-3.733a.451.451 0 0 0-.256-.786z" data-name="Path 51" transform="translate(-47.461 -4.521)" style="fill:#ffdc64"/>
+        <g id="prefix__Group_67" data-name="Group 67" transform="translate(0 10.971)">
+            <path id="prefix__Path_52" d="M90.265 11.264c.287.4 1.1 2.111 1.561 3.109a.157.157 0 0 1-.25.18c-.8-.756-2.167-2.068-2.454-2.467a.7.7 0 1 1 1.143-.823z" class="prefix__cls-2" data-name="Path 52" transform="translate(-85.243 -10.971)"/>
+            <path id="prefix__Path_53" d="M356.861 11.264c-.287.4-1.1 2.111-1.561 3.109a.157.157 0 0 0 .25.18c.8-.756 2.167-2.068 2.454-2.467a.7.7 0 1 0-1.143-.823z" class="prefix__cls-2" data-name="Path 53" transform="translate(-340.324 -10.971)"/>
+            <path id="prefix__Path_54" d="M418.259 283.263c-.467-.152-2.345-.4-3.437-.542a.157.157 0 0 0-.1.293c.963.532 2.628 1.436 3.1 1.588a.7.7 0 0 0 .437-1.339z" class="prefix__cls-2" data-name="Path 54" transform="translate(-397.186 -271.277)"/>
+            <path id="prefix__Path_55" d="M.486 283.263c.467-.152 2.345-.4 3.437-.542a.157.157 0 0 1 .1.293c-.963.532-2.628 1.436-3.1 1.588a.7.7 0 0 1-.437-1.339z" class="prefix__cls-2" data-name="Path 55" transform="translate(0 -271.277)"/>
+            <path id="prefix__Path_56" d="M239.794 403.265c0-.491.343-2.355.55-3.435a.157.157 0 0 1 .308 0c.207 1.081.55 2.944.55 3.435a.7.7 0 0 1-1.408 0z" class="prefix__cls-2" data-name="Path 56" transform="translate(-229.697 -383.334)"/>
+        </g>
+        <path id="prefix__Path_57" d="M59.469 17.853l-.813-1.889a.451.451 0 0 0-.829 0l-2.237 5.195-5.632.522a.451.451 0 0 0-.256.788l4.249 3.731-1.244 5.52a.451.451 0 0 0 .671.487l.647-.384a35.035 35.035 0 0 1 5.444-13.97z" data-name="Path 57" transform="translate(-47.461 -4.521)" style="fill:#ffc850"/>
+    </g>
+</svg>

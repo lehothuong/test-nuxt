@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{"./assets/img/img-waiting.png":function(n,w,o){n.exports=o.p+"img/img-waiting.cdeb0d0.png"}}]);

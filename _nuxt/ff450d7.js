@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{"./assets/img/img_quenmatkhau-big.png":function(n,e,m){n.exports=m.p+"img/img_quenmatkhau-big.0688bf6.png"}}]);
