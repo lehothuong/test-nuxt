@@ -1,11 +1,11 @@
 {
-  "name": "app-test",
+  "name": "test-nuxt",
   "version": "1.0.0",
   "description": "My super-duper Nuxt.js project",
   "author": "none",
   "private": true,
   "scripts": {
-    "dev": "cross-env NUXT_HOST=0.0.0.0 NUXT_PORT=3333 nuxt",
+    "dev": "nuxt",
     "build": "nuxt-ts build",
     "generate": "nuxt-ts generate",
     "start": "nuxt-ts start",
